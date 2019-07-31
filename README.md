@@ -1,4 +1,4 @@
-# OTX Maltego Transforms
+# OTX Maltego Transforms - Beta
  + A set of transforms for enriching entities in Maltego via the OTX API
 
 == Transforms ==
