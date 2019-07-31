@@ -12,7 +12,7 @@
  + Copy all files to eg; /Maltego/OTX
  + Edit the API_KEY in OTXSettings.py to your own API KEY
  + Import "OTXConfig.mtz" into Maltego via File -> Import Configuration
- + Click Transform manager, then for each OTX transform:
+ + Click "Transforms", then "Transform Manager", then for each OTX transform:
  + Update the "Command Line" column to your python binary location egg /bin/python3
  + Update the "Working Directory" column to the location you saved the files to, eg; /Maltego/OTX
  
