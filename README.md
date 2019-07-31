@@ -14,7 +14,7 @@
  + Import "OTXConfig.mtz" into Maltego via File -> Import Configuration
  + Click Transform manager, then for each OTX transform:
  + Update the "Command Line" column to your python binary location egg /bin/python3
- + Update whr "Working Directory" column to the location you saved the files to, eg; /Maltego/OTX
+ + Update the "Working Directory" column to the location you saved the files to, eg; /Maltego/OTX
  
 == Contact ==
  + otx-support@alienvault.com
